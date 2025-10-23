@@ -1,9 +1,9 @@
 
-🧮#Calculadora em Java
+# 🧮Calculadora em Java
 
 Este é um projeto simples de calculadora de terminal desenvolvida em Java, que permite realizar operações matemáticas básicas com tratamento de erros e repetição interativa.
 
-🚀 Funcionalidades
+## 🚀 Funcionalidades
 
 A calculadora realiza as seguintes operações:
 
@@ -23,7 +23,7 @@ Opção de repetir novas operações sem reiniciar o programa;
 
 Interface de texto simples e intuitiva no console.
 
-🧠 Lógica do Programa
+## 🧠 Lógica do Programa
 
 O programa utiliza:
 
@@ -43,7 +43,7 @@ O resultado é exibido com duas casas decimais.
 
 O usuário decide se quer continuar.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 
 Java SE (versão 8 ou superior)
 
@@ -51,7 +51,7 @@ Scanner (para entrada de dados via console)
 
 Tratamento de exceções com InputMismatchException
 
-💻 Como Executar o Projeto
+## 💻 Como Executar o Projeto
 Pré-requisitos:
 
 Ter o Java JDK instalado (versão 8+)
@@ -73,7 +73,7 @@ Execute o programa:
 
 java Calculadora
 
-🧩 Exemplo de Uso
+## 🧩 Exemplo de Uso
 === Calculadora ===
 Escolha a operação:
 1 - Soma
@@ -87,7 +87,7 @@ A soma de 10 e 5 é 15.00
 
 Deseja realizar outra operação? (s para sim): s
 
-⚠️ Tratamento de Erros
+## ⚠️ Tratamento de Erros
 
 Caso o usuário digite letras ou símbolos, o programa exibirá:
 
@@ -98,11 +98,11 @@ Se tentar dividir por zero:
 
 Erro: divisão por zero não é permitida.
 
-🧑‍💻 Autor
+## 🧑‍💻 Autor
 
 Rosa Maria
-💡 Projeto criado para fins de estudo e prática de programação em Java.
+## 💡 Projeto criado para fins de estudo e prática de programação em Java.
 
-📝 Licença
+## 📝 Licença
 
 Este projeto é de uso livre para fins educacionais.

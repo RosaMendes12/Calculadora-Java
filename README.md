@@ -100,7 +100,7 @@ Erro: divisão por zero não é permitida.
 
 ## 🧑‍💻 Autor
 
-Rosa Maria
+Rosa Mendes
 ## 💡 Projeto criado para fins de estudo e prática de programação em Java.
 
 ## 📝 Licença

@@ -74,16 +74,16 @@ Execute o programa:
 java Calculadora
 
 ## 🧩 Exemplo de Uso
-=== Calculadora ===
-Escolha a operação:
-1 - Soma
-2 - Subtração
-3 - Multiplicação
-4 - Divisão
-Digite o número da operação: 1
-Digite o valor 1: 10
-Digite o valor 2: 5
-A soma de 10 e 5 é 15.00
+<b>=== Calculadora === <br>
+<br>Escolha a operação:<br>
+<br>1 - Soma<br>
+<br>2 - Subtração<br>
+<br>3 - Multiplicação<br>
+<br>4 - Divisão<br>
+<br>Digite o número da operação: 1<br>
+<br>Digite o valor 1: 10<br>
+<br>Digite o valor 2: 5<br>
+<br>A soma de 10 e 5 é 15.00<br>
 
 Deseja realizar outra operação? (s para sim): s
 
